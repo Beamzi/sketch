@@ -3,17 +3,16 @@
   display: flex;
   flex-wrap: wrap;
   width: 400px;
-
-
-
 }
 
 .allDivs {
-  border: black 1px solid;
-  width: calc(100% / 16);
-  height: calc(400px / 16);
+  border: black 0.5px solid;
+  width: calc(100% / 64);
+  height: calc(400px / 64);
   box-sizing: border-box;
+  color: rgb(255, 0, 0)
 }
+
 
 
 
